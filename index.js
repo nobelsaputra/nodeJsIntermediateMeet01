@@ -18,6 +18,5 @@ async function main() {
   console.log(waifu);
 }
 
-console.log('hello world');
 
 main();
