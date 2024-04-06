@@ -14,9 +14,10 @@ const { AnimeWallpaper, AnimeSource } = require('anime-wallpaper');
 const wallpaper = new AnimeWallpaper();
 
 async function main() {
-    const waifu = await wallpaper.search({ title: 'mikasa' }, AnimeSource.ZeroChan);
-    console.log(waifu);
+  const waifu = await wallpaper.search({ title: 'mikasa' }, AnimeSource.ZeroChan);
+  console.log(waifu);
 }
 
-main();
+console.log('hello world');
 
+main();
