@@ -1,5 +1,4 @@
 # node-js-intermidiete
- Learning node js 
+Learning node js 
 
-hari ini belajar node js dan menginstall sebuah npm dengan nama unique name generator 
-
+today i'am learning something basic about node js in intermediate class
